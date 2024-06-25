@@ -1,0 +1,64 @@
+{
+  "SD_UI_TYPE": "A1111",
+  "Stable-diffusion": [
+    {
+      "url": "https://civitai.com/api/download/models/537505?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    },
+    {
+      "url": "https://civitai.com/api/download/models/30163"
+    }
+  ],
+  "VAE": [
+    {
+      "url": "https://huggingface.co/hakurei/waifu-diffusion-v1-4/resolve/main/vae/kl-f8-anime2.ckpt?download=true"
+    },
+    {
+      "url": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt?download=true"
+    }
+  ],
+  "embeddings": [
+    {
+      "url": "https://huggingface.co/embed/negative/resolve/main/EasyNegative.pt?download=true"
+    },
+    {
+      "url": "https://huggingface.co/embed/negative/resolve/main/EasyNegativeV2.safetensors?download=true"
+    },
+    {
+      "url": "https://huggingface.co/embed/negative/resolve/main/bad-artist-anime.pt?download=true"
+    },
+    {
+      "url": "https://huggingface.co/embed/negative/resolve/main/bad-artist.pt?download=true"
+    },
+    {
+      "url": "https://huggingface.co/embed/negative/resolve/main/bad-hands-5.pt?download=true"
+    },
+    {
+      "url": "https://huggingface.co/embed/negative/resolve/main/bad-image-v2-39000.pt?download=true"
+    },
+    {
+      "url": "https://huggingface.co/embed/negative/resolve/main/bad_prompt_version2.pt?download=true"
+    },
+    {
+      "url": "https://huggingface.co/embed/negative/resolve/main/ng_deepnegative_v1_75t.pt?download=true"
+    },
+    {
+      "url": "https://huggingface.co/embed/negative/resolve/main/verybadimagenegative_v1.3.pt?download=true"
+    },
+    {
+      "url": "https://civitai.com/api/download/models/20068"
+    }
+  ],
+  "Lora": [
+    {
+      "url": "https://civitai.com/api/download/models/62833"
+    }
+  ],
+  "ESRGAN": [
+    {
+      "url": "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth?download=true"
+    },
+    {
+      "url": "https://huggingface.co/gemasai/4x_NMKD-Superscale-SP_178000_G/resolve/main/4x_NMKD-Superscale-SP_178000_G.pth?download=true"
+    }
+  ]
+}
