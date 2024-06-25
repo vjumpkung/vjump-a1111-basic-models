@@ -1,11 +1,12 @@
+protobuf==3.20.3
+pillow==9.5.0
 ultralytics==8.2.0 
 mediapipe==0.10.13 
 rich==13.0.0
 gdown==5.2.0 
 wget==3.2
 python-dotenv==1.0.1
-pillow==10.3.0
-pillow-avif-plugin==1.4.3
+pillow-avif-plugin
 fvcore
 mediapipe
 opencv-python>=4.8.0
