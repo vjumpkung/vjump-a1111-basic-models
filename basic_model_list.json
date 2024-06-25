@@ -2,10 +2,10 @@
   "SD_UI_TYPE": "A1111",
   "Stable-diffusion": [
     {
-      "url": "https://civitai.com/api/download/models/537505?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+      "url": "https://huggingface.co/cyberdelia/CyberRealisticClassic/resolve/main/CyberRealisticCLASSIC_V3.1.1_FP16.safetensors?download=true"
     },
     {
-      "url": "https://civitai.com/api/download/models/30163"
+      "url": "https://civitai.com/api/download/models/119057"
     }
   ],
   "VAE": [
